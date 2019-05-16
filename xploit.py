@@ -10,7 +10,7 @@
 # | |_) | | (_| | (__|   <   ___) | (__| |  | | |_) | |_
 # |____/|_|\__,_|\___|_|\_\ |____/ \___|_|  |_| .__/ \__|
 
-import urllib,requests,sys, os , re # pip install requests
+import urllib,requests,sys, os , re, socket # pip install requests
 from platform import system
 from time import time as timer
 def clearscrn() :
